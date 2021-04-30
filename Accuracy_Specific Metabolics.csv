@@ -1,0 +1,15 @@
+Processed Dataset,Accuracy
+Plasma(Specific Metabolics),0.8820318570318569
+Serum(Specific Metabolics),0.9286761849261849
+pca2_plasma(Specific Metabolics),0.8960372960372961
+pca2_serum(Specific Metabolics),0.8873300310800311
+pca3_plasma(Specific Metabolics),0.8938956876456878
+pca3_serum(Specific Metabolics),0.8873300310800311
+pca4_plasma(Specific Metabolics),0.8977466977466978
+pca4_serum(Specific Metabolics),0.8873300310800311
+pca5_plasma(Specific Metabolics),0.9033022533022533
+pca5_serum(Specific Metabolics),0.8873300310800311
+pca15_plasma(Specific Metabolics),0.8973630536130536
+pca15_serum(Specific Metabolics),0.8873300310800311
+pca20_plasma(Specific Metabolics),0.8834790209790212
+pca20_serum(Specific Metabolics),0.8873300310800311
