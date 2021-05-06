@@ -1,0 +1,4 @@
+Processed Dataset,Accuracy
+Serum(Exploratory)_0.001,0.8654186091686091
+pca2_serum(Exploratory)_0.001,0.898052641802642
+tsne2_serum(Exploratory)_0.001,0.898052641802642

@@ -1,55 +1,81 @@
 ,Processed Dataset,Accuracy
-35,Serum(Specific Metabolics),0.928676185
-50,tsne2_plasma(Specific Metabolics),0.907085276
-45,pca10_serum(Specific Metabolics),0.904365773
-42,pca5_plasma(Specific Metabolics),0.903302253
-44,pca10_plasma(Specific Metabolics),0.900145688
-40,pca4_plasma(Specific Metabolics),0.897746698
-43,pca5_serum(Specific Metabolics),0.89736791
-46,pca15_plasma(Specific Metabolics),0.897363054
-49,pca20_serum(Specific Metabolics),0.896663753
-36,pca2_plasma(Specific Metabolics),0.896037296
-47,pca15_serum(Specific Metabolics),0.89591589
-38,pca3_plasma(Specific Metabolics),0.893895688
-0,Plasma(Exploratory),0.890166084
-37,pca2_serum(Specific Metabolics),0.887330031
-51,tsne2_serum(Specific Metabolics),0.887009518
-48,pca20_plasma(Specific Metabolics),0.883479021
-34,Plasma(Specific Metabolics),0.882031857
-5,pca3_serum(Exploratory),0.8817162
-13,tsne3_serum(Exploratory),0.8817162
-39,pca3_serum(Specific Metabolics),0.879560023
-41,pca4_serum(Specific Metabolics),0.876150932
-7,pca4_serum(Exploratory),0.871037296
-14,Plasma(Raw),0.870911033
-1,Serum(Exploratory),0.870284577
-9,pca5_serum(Exploratory),0.867501943
-3,pca2_serum(Exploratory),0.866870629
-11,tsne2_serum(Exploratory),0.866870629
-20,pca4_plasma,0.858158508
-26,pca15_plasma,0.852161033
-15,Serum(Raw),0.847246503
-24,pca10_plasma,0.844910645
-29,pca20_serum,0.844463869
-8,pca5_plasma(Exploratory),0.843842269
-4,pca3_plasma(Exploratory),0.839355089
-10,tsne2_plasma(Exploratory),0.833448912
-22,pca5_plasma,0.832123155
-18,pca3_plasma,0.830516706
-21,pca4_serum,0.829496892
-28,pca20_plasma,0.827097902
-23,pca5_serum,0.82527195
-6,pca4_plasma(Exploratory),0.824440559
-25,pca10_serum,0.82047397
+0,Plasma(Exploratory),0.8901660840000001
+1,Serum(Exploratory),0.8702845770000001
 2,pca2_plasma(Exploratory),0.819716395
-27,pca15_serum,0.812082362
-16,pca2_plasma,0.798572261
-30,tsne2_plasma,0.784688228
-19,pca3_serum,0.776981352
-32,tsne3_plasma,0.771479215
-31,tsne2_serum,0.77111014
+3,pca2_serum(Exploratory),0.8668706290000001
+4,pca3_plasma(Exploratory),0.8393550890000001
+5,pca3_serum(Exploratory),0.8817162000000001
+6,pca4_plasma(Exploratory),0.824440559
+7,pca4_serum(Exploratory),0.8710372959999999
+8,pca5_plasma(Exploratory),0.843842269
+9,pca5_serum(Exploratory),0.8675019429999999
+10,tsne2_plasma(Exploratory),0.833448912
+11,tsne2_serum(Exploratory),0.8668706290000001
 12,tsne3_plasma(Exploratory),0.770100039
-52,tsne3_plasma(Specific Metabolics),0.759561966
-53,tsne3_serum(Specific Metabolics),0.730612859
+13,tsne3_serum(Exploratory),0.8817162000000001
+14,Plasma(Raw),0.870911033
+15,Serum(Raw),0.8472465029999999
+16,pca2_plasma,0.7985722609999999
+17,pca2_serum,0.6962509709999999
+18,pca3_plasma,0.8305167059999999
+19,pca3_serum,0.7769813520000001
+20,pca4_plasma,0.8581585079999999
+21,pca4_serum,0.829496892
+22,pca5_plasma,0.832123155
+23,pca5_serum,0.82527195
+24,pca10_plasma,0.844910645
+25,pca10_serum,0.82047397
+26,pca15_plasma,0.852161033
+27,pca15_serum,0.8120823620000001
+28,pca20_plasma,0.827097902
+29,pca20_serum,0.844463869
+30,tsne2_plasma,0.7846882279999999
+31,tsne2_serum,0.77111014
+32,tsne3_plasma,0.771479215
 33,tsne3_serum,0.716890054
-17,pca2_serum,0.696250971
+34,Plasma(Specific Metabolics),0.882031857
+35,Serum(Specific Metabolics),0.928676185
+36,pca2_plasma(Specific Metabolics),0.8960372959999999
+37,pca2_serum(Specific Metabolics),0.887330031
+38,pca3_plasma(Specific Metabolics),0.893895688
+39,pca3_serum(Specific Metabolics),0.879560023
+40,pca4_plasma(Specific Metabolics),0.897746698
+41,pca4_serum(Specific Metabolics),0.876150932
+42,pca5_plasma(Specific Metabolics),0.903302253
+43,pca5_serum(Specific Metabolics),0.89736791
+44,pca10_plasma(Specific Metabolics),0.9001456879999999
+45,pca10_serum(Specific Metabolics),0.904365773
+46,pca15_plasma(Specific Metabolics),0.897363054
+47,pca15_serum(Specific Metabolics),0.89591589
+48,pca20_plasma(Specific Metabolics),0.883479021
+49,pca20_serum(Specific Metabolics),0.896663753
+50,tsne2_plasma(Specific Metabolics),0.9070852759999999
+51,tsne2_serum(Specific Metabolics),0.8870095179999999
+52,tsne3_plasma(Specific Metabolics),0.7595619659999999
+53,tsne3_serum(Specific Metabolics),0.7306128590000001
+54,Plasma(Specific Metabolics)_0.001,0.8928904428904431
+55,Serum(Specific Metabolics)_0.001,0.8521707459207459
+56,pca2_plasma(Specific Metabolics)_0.001,0.8848096348096348
+57,pca2_serum(Specific Metabolics)_0.001,0.8076631701631701
+58,pca3_plasma(Specific Metabolics)_0.001,0.8806429681429682
+59,pca3_serum(Specific Metabolics)_0.001,0.8056429681429682
+60,pca4_plasma(Specific Metabolics)_0.001,0.8637237762237762
+61,pca4_serum(Specific Metabolics)_0.001,0.8572892385392386
+62,pca5_plasma(Specific Metabolics)_0.001,0.8636023698523699
+63,pca5_serum(Specific Metabolics)_0.001,0.8466103341103342
+64,pca10_plasma(Specific Metabolics)_0.001,0.8449057886557887
+65,pca15_plasma(Specific Metabolics)_0.001,0.8678273115773116
+66,tsne2_plasma(Specific Metabolics)_0.001,0.8009663947163947
+67,tsne2_serum(Specific Metabolics)_0.001,0.8494512432012431
+68,tsne3_plasma(Specific Metabolics)_0.001,0.7961684149184148
+69,tsne3_serum(Specific Metabolics)_0.001,0.7224358974358974
+70,Plasma(Exploratory),0.8901660839160842
+71,pca2_plasma(Exploratory),0.8197163947163947
+72,pca3_plasma(Exploratory),0.8393550893550893
+73,pca4_plasma(Exploratory),0.8244405594405594
+74,pca5_plasma(Exploratory),0.8438422688422689
+75,tsne2_plasma(Exploratory),0.7930167055167056
+76,tsne3_plasma(Exploratory),0.7619706682206682
+77,Serum(Exploratory)_0.001,0.8654186091686091
+78,pca2_serum(Exploratory)_0.001,0.898052641802642
+79,tsne2_serum(Exploratory)_0.001,0.898052641802642
