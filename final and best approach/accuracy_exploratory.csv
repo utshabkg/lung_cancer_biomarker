@@ -1,0 +1,15 @@
+Processed Dataset,Accuracy
+Plasma(Exploratory),0.878559634809635
+Serum(Exploratory),0.8702748640248641
+pca2_plasma(Exploratory),0.8382721445221444
+pca2_serum(Exploratory),0.8320270007770008
+pca3_plasma(Exploratory),0.796362665112665
+pca3_serum(Exploratory),0.8505244755244756
+pca4_plasma(Exploratory),0.8274135586635586
+pca4_serum(Exploratory),0.887956487956488
+pca5_plasma(Exploratory),0.8250728438228437
+pca5_serum(Exploratory),0.8663704351204352
+tsne2_plasma(Exploratory),0.8122037684537684
+tsne2_serum(Exploratory),0.8320270007770008
+tsne3_plasma(Exploratory),0.7874893162393162
+tsne3_serum(Exploratory),0.8505244755244756
