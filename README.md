@@ -1,5 +1,6 @@
 ## LungCancer_Biomarker
 [![Author](https://img.shields.io/badge/author-utshabkg-red)](https://github.com/utshabkg/)
+[![Notebook Design Credit](https://img.shields.io/badge/Notebook_Design_Credit-AmitHasanShuvo-orange)](https://github.com/AmitHasanShuvo/)
 [![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/utshabkg/LungCancer_Biomarker/blob/master/LICENSE)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)](https://github.com/utshabkg/LungCancer_Biomarker/)
 [![Stars](https://img.shields.io/github/stars/utshabkg/LungCancer_Biomarker?style=social)](https://github.com/utshabkg/LungCancer_Biomarker/stargazers)
