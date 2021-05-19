@@ -1,0 +1,138 @@
+Features,test,p-Value
+3-hydroxybutanoic acid,-2.0289,0.0458
+alanine,-0.8946,0.3737
+azelaic acid,1.1449,0.2556
+dodecanol,-1.0255,0.3082
+fumaric acid,-0.7650,0.4465
+heptadecanoic acid,-0.3246,0.7463
+hydroxycarbamate NIST,-0.1084,0.9139
+hydroxylamine,-1.0950,0.2768
+indole-3-lactate,-0.9086,0.3663
+lysine,-2.3365,0.0220
+p-cresol,-2.2390,0.0279
+serine,-1.0775,0.2845
+threonine,-2.4390,0.0169
+tyrosine,-1.2368,0.2198
+urea,0.2673,0.7900
+1_5-anhydroglucitol,-0.4622,0.6452
+1-monostearin,1.6071,0.1120
+2_3-dihydroxybutanoic acid NIST,0.6879,0.4935
+2_4-diaminobutyric acid,0.6836,0.4962
+2-deoxyerythritol,0.5405,0.5904
+2-deoxytetronic acid,1.8088,0.0742
+2-hydroxybutanoic acid,-0.5026,0.6166
+2-hydroxyglutaric acid,-0.4773,0.6344
+2-hydroxyhippuric acid,1.6488,0.1031
+2-hydroxyvaleric acid,1.6710,0.0986
+2-ketoglucose dimethylacetal NIST,-1.1838,0.2400
+2-ketoisocaproic acid,-1.5229,0.1317
+3-(3-hydroxyphenyl)propionic acid,-1.3892,0.1686
+3-aminoisobutyric acid,0.3295,0.7427
+3-hydroxybutyric acid,1.3188,0.1910
+5-hydroxynorvaline NIST,-2.6345,0.0101
+acetoacetate,-0.4285,0.6695
+aconitic acid,-0.5309,0.5970
+alloxanoic acid NIST,0.7225,0.4721
+aminomalonate,-0.8293,0.4094
+arabitol,0.1415,0.8879
+arachidic acid,-0.8086,0.4211
+arachidonic acid,-0.9525,0.3437
+behenic acid,-1.2443,0.2170
+butane-2_3-diol NIST,0.9363,0.3519
+butyrolactam NIST,1.3768,0.1724
+capric acid,0.8545,0.3954
+caprylic acid,-1.1347,0.2599
+cellobiose,1.0715,0.2872
+cholesterol,-1.1395,0.2579
+creatinine,-0.7610,0.4489
+cysteine,-0.1000,0.9206
+cysteine-glycine,1.8415,0.0693
+cystine,-2.4494,0.0165
+dehydroascorbic acid,-0.3340,0.7392
+deoxypentitol,1.3129,0.1930
+diglycerol,-0.6498,0.5177
+epsilon-caprolactam,0.1170,0.9072
+erythritol,-0.2030,0.8397
+fructose,-1.5779,0.1185
+fucose,-0.4127,0.6809
+galactinol,0.0221,0.9825
+galactitol,-0.5387,0.5916
+glucoheptulose,-1.4668,0.1464
+gluconic acid,0.2103,0.8339
+glucose,-1.4218,0.1590
+glutamic acid,1.9379,0.0562
+glyceric acid,0.5418,0.5895
+glycerol,0.1923,0.8480
+glycerol-3-galactoside,-1.7208,0.0892
+glycerol-alpha-phosphate,-1.6523,0.1024
+glycine,-1.0115,0.3148
+glycolic acid,0.3683,0.7136
+hexitol,-2.0609,0.0426
+hexuronic acid,0.6339,0.5280
+hippuric acid,-1.0399,0.3015
+histidine,-0.7472,0.4572
+hypoxanthine,2.6356,0.0101
+indole-3-acetate,-0.2388,0.8119
+inosine,-1.2931,0.1997
+isoleucine,0.6957,0.4886
+isothreonic acid,1.9065,0.0602
+lactamide,2.0431,0.0443
+lauric acid,0.8283,0.4100
+leucine,0.9834,0.3284
+levoglucosan,-0.1793,0.8581
+linoleic acid,-0.4945,0.6223
+lyxitol,0.9450,0.3475
+mannitol,-0.4803,0.6324
+mannose,-0.0546,0.9566
+methanolphosphate,-1.0118,0.3147
+methionine,-0.0893,0.9291
+myo-inositol,0.7284,0.4685
+myristic acid,-0.9209,0.3599
+N-acetyl-5-hydroxytryptamine,-1.9866,0.0504
+N-acetylglycine NIST,-1.1580,0.2503
+N-acetylornithine,-0.5856,0.5598
+naproxen,-1.7400,0.0857
+nicotinic acid,0.7995,0.4264
+nornicotine,-2.5081,0.0142
+octadecanol,-2.5384,0.0131
+oleic acid,0.0669,0.9468
+ornithine,0.5953,0.5533
+oxalic acid,-0.1337,0.8940
+oxoproline,1.1914,0.2370
+palmitic acid,-0.5168,0.6067
+palmitoleic acid,0.4532,0.6517
+parabanic acid NIST,0.5671,0.5722
+pelargonic acid,-0.4287,0.6693
+phenylalanine,0.4756,0.6357
+phenylethylamine,-1.5212,0.1321
+phosphate,0.7013,0.4852
+pipecolinic acid,-0.6071,0.5455
+piperidone,-0.5738,0.5677
+proline,-0.3392,0.7354
+propane-1_3-diol NIST,2.1142,0.0376
+pseudo uridine,1.1567,0.2509
+pyrrole-2-carboxylic acid,0.8861,0.3782
+quinic acid,-2.4232,0.0176
+ribose,0.9458,0.3471
+salicylaldehyde,-0.0791,0.9371
+salicylic acid,1.2121,0.2290
+stearic acid,-0.1062,0.9157
+sucrose,1.1888,0.2380
+tartaric acid,-0.3169,0.7521
+threitol,0.7978,0.4274
+tocopherol alpha-,-1.7831,0.0784
+tocopherol gamma-,-1.1189,0.2665
+trans-4-hydroxyproline,1.3644,0.1763
+UDP-glucuronic acid,-1.1839,0.2400
+uridine,-0.0134,0.9894
+valine,-0.8458,0.4002
+xylitol,-0.6100,0.5436
+xylose,0.4249,0.6721
+beta-alanine,1.5792,0.2089
+citric acid,1.9223,0.1656
+conduritol-beta-epoxide,0.0723,0.7880
+indoxyl sulfate,1.3769,0.2406
+isocitric acid,0.0455,0.8311
+N-methylalanine,6.2932,0.0121
+shikimic acid,0.1665,0.6832
+threonic acid,2.5593,0.1096
