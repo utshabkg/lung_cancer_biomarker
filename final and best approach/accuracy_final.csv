@@ -15,7 +15,7 @@ pca10_plasma(Exploratory),0.8257575757575758
 pca10_serum(Exploratory),0.7424242424242424
 pca15_plasma(Exploratory),0.9090909090909092
 pca15_serum(Exploratory),0.7424242424242424
-tsne2_plasma(Exploratory),0.9090909090909092
+tsne2_plasma(Exploratory),0.8636363636363636
 tsne2_serum(Exploratory),0.696969696969697
-tsne3_plasma(Exploratory),0.6515151515151515
+tsne3_plasma(Exploratory),0.4242424242424242
 tsne3_serum(Exploratory),0.696969696969697
