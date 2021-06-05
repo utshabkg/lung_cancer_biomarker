@@ -1,0 +1,5 @@
+Method,Accuracy
+Ridge Classifier (Without PCA),90.91
+Ridge Classifier (With PCA),81.82
+Random Forest Classifier (Without PCA),78.03
+Random Forest Classifier (With PCA),86.36
