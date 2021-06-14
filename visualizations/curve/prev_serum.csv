@@ -1,0 +1,6 @@
+Method,Accuracy
+Serum(Raw),0.7803030303030303
+pca2_serum(Exploratory),0.7424242424242424
+pca3_serum(Exploratory),0.6590909090909092
+pca4_serum(Exploratory),0.6590909090909092
+pca5_serum(Exploratory),0.7878787878787878
