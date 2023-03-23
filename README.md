@@ -19,3 +19,16 @@ Bioinformatics Project. Trying to find out the most influential metabolics(from 
 6. For the mixed up approach, which have been added as a merge(apporaches 1 and 2), simply run the notebook: <b>mixed_up.ipynb</b>.
 
 Thank you. Please let me know, if you find any mistake or way of development in this repo. Cheers!
+
+### Read our [Published Journal Research Paper](https://www.sciencedirect.com/science/article/pii/S2352914821002872) based on this repository. Cite if this helps your work:
+```
+      @article{ghosh2022most,
+      title={Most dominant metabolomic biomarkers identification for lung cancer},
+      author={Ghosh, Utshab Kumar and Al Abir, Fuad and Rifaat, Nahian and Shovan, SM and Sayeed, Abu and Hasan, Md Al Mehedi},
+      journal={Informatics in Medicine Unlocked},
+      volume={28},
+      pages={100824},
+      year={2022},
+      publisher={Elsevier}
+    }
+```
