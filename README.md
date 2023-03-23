@@ -1,4 +1,4 @@
-## LungCancer_Biomarker
+## [Most Dominant Metabolomic Biomarkers Identification for Lung Cancer](https://www.sciencedirect.com/science/article/pii/S2352914821002872)
 [![Author](https://img.shields.io/badge/author-utshabkg-red)](https://github.com/utshabkg/)
 [![Co Author](https://img.shields.io/badge/co--author-fuad021-yellow)](https://github.com/fuad021/)
 [![Co Author](https://img.shields.io/badge/co--author-NahianAlindo-yellow)](https://github.com/NahianAlindo/)
@@ -22,13 +22,13 @@ Thank you. Please let me know, if you find any mistake or way of development in 
 
 ### Read our [Published Journal Research Paper](https://www.sciencedirect.com/science/article/pii/S2352914821002872) based on this repository. Cite if this helps your work:
 ```
-      @article{ghosh2022most,
-      title={Most dominant metabolomic biomarkers identification for lung cancer},
-      author={Ghosh, Utshab Kumar and Al Abir, Fuad and Rifaat, Nahian and Shovan, SM and Sayeed, Abu and Hasan, Md Al Mehedi},
-      journal={Informatics in Medicine Unlocked},
-      volume={28},
-      pages={100824},
-      year={2022},
-      publisher={Elsevier}
+    @article{ghosh2022most,
+    title={Most dominant metabolomic biomarkers identification for lung cancer},
+    author={Ghosh, Utshab Kumar and Al Abir, Fuad and Rifaat, Nahian and Shovan, SM and Sayeed, Abu and Hasan, Md Al Mehedi},
+    journal={Informatics in Medicine Unlocked},
+    volume={28},
+    pages={100824},
+    year={2022},
+    publisher={Elsevier}
     }
 ```
